@@ -6,12 +6,12 @@ export default function mainPage() {
         
       <div class="card">
   <div class="card-header">
-    Featured
+    Tests:
   </div>
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Test Name:</h5>
+    <p class="card-text">No. of Questions:    Time:</p>
+    <a href="#" class="btn btn-primary">Start Now</a>
   </div>
 </div>
     )

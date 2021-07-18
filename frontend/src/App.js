@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import mainPage from './component/mainPage';
+import MainPage from './component/mainPage';
 
 function App() {
   return (
-    <mainPage/>
+    <MainPage/>
   );
 }
 
