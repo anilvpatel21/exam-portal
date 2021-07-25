@@ -47,7 +47,7 @@ export default class MainPage extends Component {
     console.log(props);
   return (
     <div>
-      <div className="card" style="width: 18rem;">
+      <div className="card my-1" style={{width: "18rem" }}>
         
           <div className="card-body">
             <h5 className="card-title">{props.data.testName}</h5>
